@@ -1,3 +1,3 @@
-﻿#Video Call App
+#Video Call App
 npm install
 npm nodemon server.js
